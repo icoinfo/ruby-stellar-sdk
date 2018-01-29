@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "stellar-base", "~> 0.12.0"
   spec.add_dependency "hyperclient", "~> 0.7.0"
-  spec.add_dependency "excon", "~> 0.44.4"
+  spec.add_dependency "excon", "~> 0.58"
   spec.add_dependency "contracts", "~> 0.7"
   spec.add_dependency "activesupport", "~> 5"
 
